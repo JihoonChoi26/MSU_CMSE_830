@@ -16,7 +16,7 @@ Users can compare how students are distributed across five forms of work experie
 
 ## Data
 
-- **Source.** College Internship Study (CIS), Center for Research on College-Workforce Transitions (CCWT), UW-Madison. Wave-one survey responses, collected 2018-2020.
+- **Source.** College Internship Trajectory, Educational Longitudinal Study, Wave-one survey responses.
 - **Analytic sample.** 2,995 students at 11 four-year campuses (HBCU 1,468, HSI 562, four-year public 965). One row is one student. Two technical colleges are excluded.
 - **Key variables.** Five-level form of work experience (derived), career adaptability (Career Adapt-Abilities Scale, four dimensions plus an overall score on a 1-5 scale), institution type, first-generation status, field of study, and gender.
 
