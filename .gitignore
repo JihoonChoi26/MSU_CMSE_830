@@ -1,0 +1,9 @@
+# Restricted data: never commit the CIS files
+data/
+*.csv
+
+# Python, notebook, and OS clutter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
