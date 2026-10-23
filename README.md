@@ -2,8 +2,6 @@
 
 CMSE 830 midterm project. An interactive Streamlit data story about how college students' work experience relates to their career adaptability.
 
-![App screenshot](figures/app_screenshot.png)
-
 ## Purpose and audience
 
 College students gain work experience in different forms, from internships to paid jobs that may or may not relate to their career goals. These forms are often treated as interchangeable, yet they may not build the same career resources, and access to them may differ across institutions.
